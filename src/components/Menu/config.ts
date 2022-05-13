@@ -52,19 +52,19 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'PancakeSwap',
-        href: 'https://pancakeswap.info/token/0x9066e87Bac891409D690cfEfA41379b34af06391',
+        href: 'https://pancakeswap.info/token/',
       },
       {
         label: 'CoinGecko',
-        href: 'https://www.coingecko.com/en/coins/taco-finance',
+        href: 'https://www.coingecko.com/en/coins/',
       },
       {
         label: 'CoinMarketCap',
-        href: 'https://coinmarketcap.com/currencies/taco-finance/',
+        href: 'https://coinmarketcap.com/currencies/',
       },
       {
         label: 'AstroTools',
-        href: 'https://app.astrotools.io/pancake-pair-explorer/0x3BB3B98c0FABE30166E6B7D62aEef393249871E4', // taco-busd
+        href: 'https://app.astrotools.io/pancake-pair-explorer/', // InDex-busd
       },
     ],
   },
@@ -74,26 +74,26 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Hacken Audit',
-        href: 'https://taco.finance/files/TacoSwap_SC_Audit_Report.pdf',
+        href: 'https://index.finance/files/in-dex-finance',
       },
       {
         label: 'Github',
-        href: 'https://github.com/tacofinance/',
+        href: 'https://github.com/InDexfinance/',
       },
       {
         label: 'Docs',
-        href: 'https://taco-finance.gitbook.io/taco-finance/',
+        href: 'https://idsdefi.gitbook.io/in-dex-sale/the-company/about-this',
       },
       {
         label: 'Blog',
-        href: 'https://taco-finance.medium.com/',
+        href: 'https://index-finance.medium.com/',
       },
     ],
   },
   {
     label: 'Hacken Audit',
     icon: 'AuditIcon',
-    href: 'https://taco.finance/files/TacoSwap_SC_Audit_Report.pdf',
+    href: 'https://index.finance/files/in-dex-finance',
   },
 ]
 
