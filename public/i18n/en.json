@@ -75,7 +75,7 @@
     {
       "data": {
         "stringId": 304,
-        "text": "Total TACO burned since launch"
+        "text": "Total InDex burned since launch"
       }
     },
     {
@@ -123,13 +123,13 @@
     {
       "data": {
         "stringId": 320,
-        "text": "Stake LP tokens to earn TACO"
+        "text": "Stake LP tokens to earn InDex"
       }
     },
     {
       "data": {
         "stringId": 322,
-        "text": "Stake Taco, get SYRUP."
+        "text": "Stake InDex, get SYRUP."
       }
     },
     {
@@ -153,7 +153,7 @@
     {
       "data": {
         "stringId": 334,
-        "text": "Every time you stake and unstake TACO tokens, the contract will automatically harvest TACO rewards for you!"
+        "text": "Every time you stake and unstake InDex tokens, the contract will automatically harvest InDex rewards for you!"
       }
     },
     {
@@ -219,7 +219,7 @@
     {
       "data": {
         "stringId": 358,
-        "text": "Taco price"
+        "text": "InDex price"
       }
     },
     {
@@ -243,7 +243,7 @@
     {
       "data": {
         "stringId": 380,
-        "text": "1 TACO = 1 SYRUP"
+        "text": "1 InDex = 1 SYRUP"
       }
     },
     {
@@ -579,7 +579,7 @@
     {
       "data": {
         "stringId": 508,
-        "text": "The project gets the BNB, Taco Swap burns the TACO."
+        "text": "The project gets the BNB, InDex Swap burns the InDex."
       }
     },
     {
@@ -597,7 +597,7 @@
     {
       "data": {
         "stringId": 514,
-        "text": "Launch your project with Taco Swap, Binance Smart Chain\u2019s most-used AMM project and liquidity provider, to bring your token directly to the most active and rapidly growing community on BSC."
+        "text": "Launch your project with InDex Swap, Binance Smart Chain\u2019s most-used AMM project and liquidity provider, to bring your token directly to the most active and rapidly growing community on BSC."
       }
     },
     {
@@ -1143,13 +1143,13 @@
     {
       "data": {
         "stringId": 708,
-        "text": "The TACO Lottery"
+        "text": "The InDex Lottery"
       }
     },
     {
       "data": {
         "stringId": 710,
-        "text": "Buy tickets with TACO"
+        "text": "Buy tickets with InDex"
       }
     },
     {
@@ -1203,7 +1203,7 @@
     {
       "data": {
         "stringId": 10000,
-        "text": "Deposit Fee will be used to buyback TACO"
+        "text": "Deposit Fee will be used to buyback InDex"
       }
     },
     {
@@ -1215,7 +1215,7 @@
     {
       "data": {
         "stringId": 10002,
-        "text": "Stake tokens to earn TACO"
+        "text": "Stake tokens to earn InDex"
       }
     },
     {
