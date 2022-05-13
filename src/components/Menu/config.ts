@@ -12,12 +12,12 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://exchange.taco.finance/#/swap?outputCurrency=0x9066e87Bac891409D690cfEfA41379b34af06391',
+        href: 'https://www.in-dex-swap.ml/#/swap',
       },
       {
         label: 'Liquidity',
         href:
-          'https://exchange.taco.finance/#/add/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/0x9066e87Bac891409D690cfEfA41379b34af06391',
+          'https://www.in-dex-swap.ml/#/pool',
       },
     ],
   },
