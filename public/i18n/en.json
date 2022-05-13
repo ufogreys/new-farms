@@ -645,25 +645,25 @@
     {
       "data": {
         "stringId": 534,
-        "text": "Taco Stats"
+        "text": "InDex Stats"
       }
     },
     {
       "data": {
         "stringId": 536,
-        "text": "Total TACO Supply"
+        "text": "Total  Supply"
       }
     },
     {
       "data": {
         "stringId": 538,
-        "text": "Total TACO Burned"
+        "text": "Total InDex Burned"
       }
     },
     {
       "data": {
         "stringId": 540,
-        "text": "New TACO/block"
+        "text": "New InDex/block"
       }
     },
     {
@@ -675,19 +675,19 @@
     {
       "data": {
         "stringId": 544,
-        "text": "TACO to Harvest"
+        "text": "InDex to Harvest"
       }
     },
     {
       "data": {
         "stringId": 546,
-        "text": "TACO in Wallet"
+        "text": "InDex in Wallet"
       }
     },
     {
       "data": {
         "stringId": 548,
-        "text": "Collecting TACO"
+        "text": "Collecting InDex"
       }
     },
     {
@@ -753,19 +753,19 @@
     {
       "data": {
         "stringId": 576,
-        "text": "Taco Swap"
+        "text": "InDex Swap"
       }
     },
     {
       "data": {
         "stringId": 578,
-        "text": "Most DELICIOUS exchange in all of Binance Smart Chain!"
+        "text": "Most Good exchange in all of Binance Smart Chain!"
       }
     },
     {
       "data": {
         "stringId": 580,
-        "text": "Stake TACO to earn new tokens."
+        "text": "Stake InDex to earn new tokens."
       }
     },
     {
@@ -783,7 +783,7 @@
     {
       "data": {
         "stringId": 586,
-        "text": "TACO to burn (USD)"
+        "text": "InDex to burn (USD)"
       }
     },
     {
@@ -813,13 +813,13 @@
     {
       "data": {
         "stringId": 596,
-        "text": "Buy TACO and BNB tokens"
+        "text": "Buy InDex and BNB tokens"
       }
     },
     {
       "data": {
         "stringId": 598,
-        "text": "Get TACO-BNB LP tokens by adding TACO and BNB liquidity"
+        "text": "Get InDex-BNB LP tokens by adding InDex and BNB liquidity"
       }
     },
     {
@@ -831,7 +831,7 @@
     {
       "data": {
         "stringId": 602,
-        "text": "While the sale is live, commit your TACO-LP tokens to buy the IFO tokens"
+        "text": "While the sale is live, commit your InDex-LP tokens to buy the IFO tokens"
       }
     },
     {
@@ -867,7 +867,7 @@
     {
       "data": {
         "stringId": 614,
-        "text": "Trade in for TACO, or keep for your collection!"
+        "text": "Trade in for InDex, or keep for your collection!"
       }
     },
     {
@@ -909,7 +909,7 @@
     {
       "data": {
         "stringId": 628,
-        "text": "When you trade in this NFT to receive TACO, you will lose access to it forever!"
+        "text": "When you trade in this NFT to receive InDex, you will lose access to it forever!"
       }
     },
     {
@@ -939,7 +939,7 @@
     {
       "data": {
         "stringId": 638,
-        "text": "Winners can trade in their NFTs for a TACO value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
+        "text": "Winners can trade in their NFTs for a InDex value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
       }
     },
     {
@@ -981,7 +981,7 @@
     {
       "data": {
         "stringId": 654,
-        "text": "Trade in for TACO"
+        "text": "Trade in for InDex"
       }
     },
     {
@@ -1107,7 +1107,7 @@
     {
       "data": {
         "stringId": 696,
-        "text": "Stake LP tokens to earn TACO"
+        "text": "Stake LP tokens to earn InDex"
       }
     },
     {
