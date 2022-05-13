@@ -62,12 +62,12 @@ const Home: React.FC = () => {
       <Hero>
         <Heading as="h1" size="xl" mb="24px" color="secondary">
           <span style={{ fontFamily: 'taco', textTransform: 'uppercase', fontSize: '40pt' }}>
-            {TranslateString(576, 'Taco Swap')}
+            {TranslateString(576, 'InDex Sale')}
           </span>
         </Heading>
         <Text>
           <span style={{ color: '#d94590' }}>
-            {TranslateString(578, 'Most DELICIOUS exchange in all of Binance Smart Chain!')}
+            {TranslateString(578, 'Most good exchange in all of Binance Smart Chain!')}
           </span>
         </Text>
       </Hero>
