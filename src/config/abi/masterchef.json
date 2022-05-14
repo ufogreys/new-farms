@@ -2,8 +2,8 @@
   {
     "inputs": [
       {
-        "internalType": "contract TacoToken",
-        "name": "_taco",
+        "internalType": "contract IndexToken",
+        "name": "_index",
         "type": "address"
       },
       {
@@ -18,7 +18,7 @@
       },
       {
         "internalType": "uint256",
-        "name": "_tacoPerBlock",
+        "name": "_indexPerBlock",
         "type": "uint256"
       },
       {
@@ -207,7 +207,7 @@
       },
       {
         "internalType": "uint256",
-        "name": "accTacoPerShare",
+        "name": "accIndexPerShare",
         "type": "uint256"
       },
       {
@@ -243,10 +243,10 @@
   },
   {
     "inputs": [],
-    "name": "taco",
+    "name": "index",
     "outputs": [
       {
-        "internalType": "contract TacoToken",
+        "internalType": "contract IndexToken",
         "name": "",
         "type": "address"
       }
@@ -257,7 +257,7 @@
   },
   {
     "inputs": [],
-    "name": "tacoPerBlock",
+    "name": "indexPerBlock",
     "outputs": [
       {
         "internalType": "uint256",
@@ -434,7 +434,7 @@
         "type": "address"
       }
     ],
-    "name": "pendingTaco",
+    "name": "pendingIndex",
     "outputs": [
       {
         "internalType": "uint256",
@@ -545,7 +545,7 @@
     "inputs": [
       {
         "internalType": "uint256",
-        "name": "_tacoPerBlock",
+        "name": "_indexPerBlock",
         "type": "uint256"
       }
     ],
