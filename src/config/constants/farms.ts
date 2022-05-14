@@ -8,7 +8,7 @@ const TACO_MAINNET = `0x3705496ee4614f7fe939e410f5a03df988148e50`
 const farms: FarmConfig[] = [
   {
     risk: 5,
-    lpSymbol: 'InDex-BUSD LP',
+    lpSymbol: 'In-Dex-BUSD LP',
     lpAddresses: {
       97: '0x11CE35aa3eE3639C30FEF3Af9A359A638B29Fba8',
       56: TACO_BUSD_LP_MAINNET,
@@ -23,7 +23,7 @@ const farms: FarmConfig[] = [
   },
   {
     risk: 5,
-    lpSymbol: 'InDex-BNB LP',
+    lpSymbol: 'In-Dex-BNB LP',
     lpAddresses: {
       97: '0x01b1405bEF38652468C9f43861010eB73E0AA443',
       56: TACO_BNB_LP_MAINNET,
@@ -149,7 +149,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'In-Dex',
     lpAddresses: {
       97: '',
-      56: TACO_BUSD_LP_MAINNET, // InDex-BUSD LP
+      56: TACO_BUSD_LP_MAINNET, // In-Dex-BUSD LP
     },
     tokenSymbol: 'In-Dex',
     tokenAddresses: {
