@@ -1,6 +1,6 @@
 export default {
   cake: {
-    56: '0x9066e87Bac891409D690cfEfA41379b34af06391', // TACO TOKEN
+    56: '0x3705496ee4614f7fe939e410f5a03df988148e50', // In-Dex TOKEN
     97: '',
   },
   masterChef: {
