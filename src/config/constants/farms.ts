@@ -8,12 +8,12 @@ const TACO_MAINNET = `0x9066e87Bac891409D690cfEfA41379b34af06391`
 const farms: FarmConfig[] = [
   {
     risk: 5,
-    lpSymbol: 'TACO-BUSD LP',
+    lpSymbol: 'InDex-BUSD LP',
     lpAddresses: {
       97: '0x11CE35aa3eE3639C30FEF3Af9A359A638B29Fba8',
       56: TACO_BUSD_LP_MAINNET,
     },
-    tokenSymbol: 'TACO',
+    tokenSymbol: 'In-Dex',
     tokenAddresses: {
       97: '0x3705496eE4614f7fE939E410f5A03dF988148e50',
       56: TACO_MAINNET,
@@ -23,12 +23,12 @@ const farms: FarmConfig[] = [
   },
   {
     risk: 5,
-    lpSymbol: 'TACO-BNB LP',
+    lpSymbol: 'InDex-BNB LP',
     lpAddresses: {
       97: '0x01b1405bEF38652468C9f43861010eB73E0AA443',
       56: TACO_BNB_LP_MAINNET,
     },
-    tokenSymbol: 'TACO',
+    tokenSymbol: 'In-Dex',
     tokenAddresses: {
       97: '0x3705496eE4614f7fE939E410f5A03dF988148e50',
       56: TACO_MAINNET,
@@ -146,12 +146,12 @@ const farms: FarmConfig[] = [
   {
     risk: 5,
     isTokenOnly: true,
-    lpSymbol: 'TACO',
+    lpSymbol: 'In-Dex',
     lpAddresses: {
       97: '',
-      56: TACO_BUSD_LP_MAINNET, // TACO-BUSD LP
+      56: TACO_BUSD_LP_MAINNET, // InDex-BUSD LP
     },
-    tokenSymbol: 'TACO',
+    tokenSymbol: 'In-Dex',
     tokenAddresses: {
       97: '',
       56: TACO_MAINNET,
