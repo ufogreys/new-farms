@@ -15,7 +15,7 @@ const farms: FarmConfig[] = [
     },
     tokenSymbol: 'TACO',
     tokenAddresses: {
-      97: '0x294Bc5a393B8de74f8d389197DA639C5FbDB9A07',
+      97: '0x3705496eE4614f7fE939E410f5A03dF988148e50',
       56: TACO_MAINNET,
     },
     quoteTokenSymbol: QuoteToken.BUSD,
@@ -30,7 +30,7 @@ const farms: FarmConfig[] = [
     },
     tokenSymbol: 'TACO',
     tokenAddresses: {
-      97: '0x294Bc5a393B8de74f8d389197DA639C5FbDB9A07',
+      97: '0x3705496eE4614f7fE939E410f5A03dF988148e50',
       56: TACO_MAINNET,
     },
     quoteTokenSymbol: QuoteToken.BNB,
@@ -45,7 +45,7 @@ const farms: FarmConfig[] = [
     },
     tokenSymbol: 'BNB',
     tokenAddresses: {
-      97: '0x294Bc5a393B8de74f8d389197DA639C5FbDB9A07',
+      97: '0x3705496eE4614f7fE939E410f5A03dF988148e50',
       56: '0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c',
     },
     quoteTokenSymbol: QuoteToken.BUSD,
